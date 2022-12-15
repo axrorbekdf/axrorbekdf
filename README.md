@@ -13,8 +13,6 @@
 
 - 📫 Email **axrorbekdf@gmail.com**
 
-- 📄 Know about my experiences [https://ish.uz/oz/my-resume/361bbfc4-8cc4-4176-8c04-856e9947739d](https://ish.uz/oz/my-resume/361bbfc4-8cc4-4176-8c04-856e9947739d)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://drivesoft.uz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://drivesoft.uz/" height="30" width="40" /></a>
