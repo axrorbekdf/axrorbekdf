@@ -31,7 +31,7 @@
   </a>
 </p>
 <br>
-<p style="margin-top: 45px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=axrorbekdf&show_icons=true&locale=en" alt="axrorbekdf" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=axrorbekdf&show_icons=true&locale=en" alt="axrorbekdf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axrorbekdf&" alt="axrorbekdf" /></p>
 
