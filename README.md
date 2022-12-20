@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axrorbekdf" alt="axrorbekdf" /></a> </p>
 
-- 🔭 Ish joyim ["Oile Market" savdo markazi](oilamarket.uz)
+- 🔭 Ish joyim ["BDS MCHJ](https://drivesoft.uz)
 
 - 👨‍💻 Portfolio uchun link [https://ish.uz/oz/my-resume/361bbfc4-8cc4-4176-8c04-856e9947739d](https://ish.uz/oz/my-resume/361bbfc4-8cc4-4176-8c04-856e9947739d)
 
