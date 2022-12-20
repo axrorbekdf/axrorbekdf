@@ -1,5 +1,5 @@
 <h1 align="center">Salom 👋, Men Ahrorbek Davronov</h1>
-<h3 align="center">Backend Devoloper (Laravel)</h3>
+<h3 align="center">Backend Developer (Laravel)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axrorbekdf&label=Profile%20views&color=0e75b6&style=flat" alt="axrorbekdf" /> </p>
 
